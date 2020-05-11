@@ -1,0 +1,16 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\Oefening1.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\App.g.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\Oefening1.csproj.GenerateResource.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\HalloWereldWindow.g.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\TweedeVoorbeeldWindow.g.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\HalloWereldWindow.baml
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\WPF\WpfApp1\obj\Debug\TweedeVoorbeeldWindow.baml
